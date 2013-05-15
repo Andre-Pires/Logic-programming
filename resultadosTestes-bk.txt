@@ -1,0 +1,14 @@
+teste 1
+suspeito(Valdemort,800000,fisga,muito boa,capacete,sandalias)
+suspeito(Sauron,78,agulhas de tricot,deploravel,escova de dentes,saltos altos)
+suspeito(Hannibal Lecter,67,catana,maravilhosa,mac,tenis)
+suspeito(Darth Vader,150,winchester,fracote,luva,pantufas)
+suspeito(Agent Smith,50,varinha,boa,livro,botas)
+suspeito(Malvina Cruela,45,bazuca,media,anel,havaianas)
+teste 2
+suspeito(Hannibal Lecter,78,agulhas de tricot,media,mac,tenis)
+suspeito(Valdemort,50,winchester,deploravel,anel,havaianas)
+suspeito(Sauron,150,fisga,maravilhosa,escova de dentes,pantufas)
+suspeito(Darth Vader,800000,bazuca,fracote,livro,botas)
+suspeito(Agent Smith,67,varinha,muito boa,luva,sandalias)
+suspeito(Malvina Cruela,45,catana,boa,capacete,saltos altos)
